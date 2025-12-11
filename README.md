@@ -26,8 +26,8 @@ The goal is to understand which product categories sell more, which outlets perf
 ---
 
 ## *Dashboard*
-(Add PDF screenshot here)
-[Download Dashboard PDF](./Car%20Sales%20Dashboard.pdf)
+(blinkit-dashboard.png)
+[Download Dashboard PDF](.blinkit-project-dashboard.pdf)
 [Download PBIX File](./car_sales_dashboard.pbix)
 ---
 
